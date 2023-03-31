@@ -1,5 +1,3 @@
-![rave_logo](docs/rave.png)
-
 # VQ-RAVE: Vector Quantized-Realtime Audio Variational autoEncoder
 
 This is an implementation of a vector quantized version of the official _RAVE (Real-time Variational autoEncoder)_ model that was presented by Antoine Caillon and Philippe Esling. 
